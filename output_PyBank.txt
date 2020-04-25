@@ -1,0 +1,7 @@
+<_csv.reader object at 0x000001F90D143DD8>
+CSV Header: ['Date', 'Profit/Losses']
+Total Months is: 86
+Total : $ 38382578.0
+Average Revenue Change: $ -2315.1176470588234
+Greatest Increase in Profits: Feb-2012 ($ 1926159.0 )
+Greatest Decrease in Profits: Sep-2013 ($ -2196167.0 )
